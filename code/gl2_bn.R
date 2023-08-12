@@ -1,4 +1,4 @@
-# Ordering-based search based on a given lambda value (here lambda = 0.01 as an example), initialize with BIC-based BN order, ordering search space is restricted within "CombatFlag, ServiceConnectedFlag,
+# Ordering-based search based on a given lambda value (here lambda = 0.001 as an example), initialize with BIC-based BN order, ordering search space is restricted within "CombatFlag, ServiceConnectedFlag,
 #    MaritalStatus, SWAsiaConditionsFlag, Religion, MilitarySexualTraumaFlag, AgentOrangeFlag, and IonizingRadiationFlag".
 
 l = 0.001
