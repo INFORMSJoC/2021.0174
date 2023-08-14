@@ -11,7 +11,7 @@ INFORMS Journal on Computing.
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 ```
-@article{Tan2023,
+@article{Tan2023PTSD,
   author =        {Y. Tan, P.P. Shenoy, B. Sherwood, M. Gaddy, M. Oehlert, and C. Shenoy},
   publisher =     {INFORMS Journal on Computing},
   title =         {Bayesian Network Models for PTSD Screening in Veterans},
