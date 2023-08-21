@@ -11,12 +11,13 @@ INFORMS Journal on Computing.
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 ```
-@article{Tan2023PTSD,
-  author =        {Y. Tan, P.P. Shenoy, B. Sherwood, M. Gaddy, M. Oehlert, and C. Shenoy},
+@misc{Tan2023PTSD,
+  author =        {Tan, Yi and Shenoy, Prakash P and Sherwood, Ben and Gaddy, Melinda and Oehlert, Mary E and Shenoy, Catherine},
   publisher =     {INFORMS Journal on Computing},
-  title =         {Bayesian Network Models for PTSD Screening in Veterans},
+  title =         {R Scripts for {B}ayesian Network Models for {PTSD} Screening in Veterans},
   year =          {2023},
-  url =           {https://github.com/INFORMSJoC/2022.0174},
+  doi =		 {10.1287/ijoc.2022.0174.cd},
+  note =           {Available for download at https://github.com/INFORMSJoC/2022.0174},
 } 
 ```
 
