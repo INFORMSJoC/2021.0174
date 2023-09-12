@@ -16,8 +16,8 @@ To cite the contents of this repository, please cite both the paper and this rep
   publisher =     {INFORMS Journal on Computing},
   title =         {R Scripts for {B}ayesian Network Models for {PTSD} Screening in Veterans},
   year =          {2023},
-  doi =		 {10.1287/ijoc.2022.0174.cd},
-  note =           {Available for download at https://github.com/INFORMSJoC/2022.0174},
+  doi =		 {10.1287/ijoc.2021.0174.cd},
+  note =           {Available for download at https://github.com/INFORMSJoC/2021.0174},
 } 
 ```
 
