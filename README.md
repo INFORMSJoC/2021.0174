@@ -4,7 +4,7 @@
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-This repository includes the synthetic data and R codes for the following paper: Tan, Y., Shenoy, P.P., Sherwood, B., Gaddy, M., Oehlert, M., Shenoy, C. Bayesian Network Models for PTSD Screening in Veterans.
+This repository includes the synthetic data and R codes for the following paper: Tan, Y., Shenoy, P.P., Sherwood, B., Gaddy, M., Oehlert, M., Shenoy, C. [Bayesian Network Models for PTSD Screening in Veterans](https://doi.org/10.1287/ijoc.2021.0174).
 INFORMS Journal on Computing.
 
 ## Cite
